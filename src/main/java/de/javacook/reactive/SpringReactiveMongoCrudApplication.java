@@ -1,4 +1,4 @@
-package com.javatechie.reactive;
+package de.javacook.reactive;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

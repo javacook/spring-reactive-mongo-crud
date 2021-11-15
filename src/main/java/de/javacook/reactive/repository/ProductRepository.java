@@ -1,7 +1,7 @@
-package com.javatechie.reactive.repository;
+package de.javacook.reactive.repository;
 
-import com.javatechie.reactive.dto.ProductDto;
-import com.javatechie.reactive.entity.Product;
+import de.javacook.reactive.dto.ProductDto;
+import de.javacook.reactive.entity.Product;
 import org.springframework.data.domain.Range;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 import org.springframework.stereotype.Repository;

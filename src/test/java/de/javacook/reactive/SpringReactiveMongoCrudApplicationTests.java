@@ -1,13 +1,12 @@
-package com.javatechie.reactive;
+package de.javacook.reactive;
 
-import com.javatechie.reactive.controller.ProductController;
-import com.javatechie.reactive.dto.ProductDto;
-import com.javatechie.reactive.service.ProductService;
+import de.javacook.reactive.controller.ProductController;
+import de.javacook.reactive.dto.ProductDto;
+import de.javacook.reactive.service.ProductService;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.reactive.WebFluxTest;
-import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.reactive.server.WebTestClient;

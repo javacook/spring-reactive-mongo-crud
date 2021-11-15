@@ -1,7 +1,7 @@
-package com.javatechie.reactive.utils;
+package de.javacook.reactive.utils;
 
-import com.javatechie.reactive.dto.ProductDto;
-import com.javatechie.reactive.entity.Product;
+import de.javacook.reactive.dto.ProductDto;
+import de.javacook.reactive.entity.Product;
 import org.springframework.beans.BeanUtils;
 
 public class AppUtils {

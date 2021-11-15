@@ -1,4 +1,4 @@
-package com.javatechie.reactive.entity;
+package de.javacook.reactive.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,7 +1,7 @@
-package com.javatechie.reactive.controller;
+package de.javacook.reactive.controller;
 
-import com.javatechie.reactive.dto.ProductDto;
-import com.javatechie.reactive.service.ProductService;
+import de.javacook.reactive.dto.ProductDto;
+import de.javacook.reactive.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;

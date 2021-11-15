@@ -1,9 +1,8 @@
-package com.javatechie.reactive.service;
+package de.javacook.reactive.service;
 
-import com.javatechie.reactive.dto.ProductDto;
-import com.javatechie.reactive.entity.Product;
-import com.javatechie.reactive.repository.ProductRepository;
-import com.javatechie.reactive.utils.AppUtils;
+import de.javacook.reactive.dto.ProductDto;
+import de.javacook.reactive.repository.ProductRepository;
+import de.javacook.reactive.utils.AppUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Range;
 import org.springframework.stereotype.Service;

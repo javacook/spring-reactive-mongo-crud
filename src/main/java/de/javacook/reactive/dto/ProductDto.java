@@ -1,4 +1,4 @@
-package com.javatechie.reactive.dto;
+package de.javacook.reactive.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
