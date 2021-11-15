@@ -1,1 +1,1 @@
-spring.data.mongodb.uri: mongodb://admin:password@localhost:27017/dockerschulung
+spring.data.mongodb.uri: mongodb://admin:password@${DB_HOST:localhost}:27017/dockerschulung
