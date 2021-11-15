@@ -1,0 +1,21 @@
+POST http://localhost:8080/products
+Content-Type: application/json
+
+{
+  "name": "Eier",
+  "qty": 20,
+  "price": 4.95
+}
+
+###
+GET http://localhost:8080/products
+Accept: application/json
+
+###
+
+###
+GET http://localhost:8080/products/61925f47029a922530372310
+Accept: application/json
+
+###
+
