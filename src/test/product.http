@@ -2,9 +2,9 @@ POST http://localhost:8080/products
 Content-Type: application/json
 
 {
-  "name": "Eier",
-  "qty": 20,
-  "price": 4.95
+  "name": "Nüsse",
+  "quantity": 200,
+  "price": 3.96
 }
 
 ###
